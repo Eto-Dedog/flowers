@@ -1,4 +1,4 @@
-# flowers - Проект
+# flowers - Проект - https://eto-dedog.github.io/flowers/
 ## Технологии
 - HTML
 - CSS
